@@ -1,3 +1,23 @@
+## 🎨 Desain UI/UX
+Desain dan prototype aplikasi ini dapat dilihat di Figma:
+[👉 Klik di sini untuk melihat Desain Figma](https://www.figma.com/proto/pAfBneJ5A14qtTWYnkPXGX/Untitled?node-id=131-109&starting-point-node-id=96%3A16
+
+desain Tropycal Monkey)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
